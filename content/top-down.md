@@ -81,7 +81,7 @@ performance issues firsthand. It's just one of those things that seem true
 because component libraries say so in their documentation.
 
 Over the past decade, I have built a wide range of business applications and
-simple games using top-down rendering with tools like React/JavaScript, Ohm,
+simple games using top-down rendering with tools like React/JavaScript, Om,
 Quiescent, Reagent, Snabbdom, Dumdom, and Replicant. In all that time, I can
 count on one hand the number of instances where I needed to optimize rendering
 performance.
